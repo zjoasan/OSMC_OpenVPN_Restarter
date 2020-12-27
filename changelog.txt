@@ -1,2 +1,2 @@
-0.0..2 Chose  to go with clean python, no shellscript needed.
+0.0.2 Chose  to go with clean python, no shellscript needed.
 0.0.1 Initial Openvpn service restarter for OSMC
