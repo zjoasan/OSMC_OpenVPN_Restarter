@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.OSMC_OpenVPN_Restarter" name="OSMC OpenVPN Restarter" version="0.0.1" provider-name="Zjoasan">
+<addon id="plugin.program.OSMC_OpenVPN_Restarter" name="OSMC OpenVPN Restarter" version="0.0.2" provider-name="Zjoasan">
     <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="xbmc.python" version="3.0.0"/>
     </requires>
-    <extension point="xbmc.python.pluginsource" library="addon.py">
+    <extension point="xbmc.python.script" library="addon.py">
         <provides>executable</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
